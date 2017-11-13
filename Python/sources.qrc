@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="icons1">
+    <file>icons/icon_set_1/lum.png</file>
+    <file>icons/icon_set_1/over.png</file>
+    <file>icons/icon_set_1/temp.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>background/backv3.png</file>
+    <file>background/backv2.png</file>
+    <file>background/backv1.png</file>
+  </qresource>
+  <qresource prefix="icons2">
+    <file>icons/icon_set_2/hum.png</file>
+    <file>icons/icon_set_2/irrig.png</file>
+    <file>icons/icon_set_2/irrig_2.png</file>
+    <file>icons/icon_set_2/lum.png</file>
+    <file>icons/icon_set_2/over.png</file>
+  </qresource>
+  <qresource prefix="icons3">
+    <file>icons/icon_set_3/hum.png</file>
+    <file>icons/icon_set_3/irrrig.png</file>
+    <file>icons/icon_set_3/over.png</file>
+    <file>icons/icon_set_3/tem.png</file>
+  </qresource>
+</RCC>

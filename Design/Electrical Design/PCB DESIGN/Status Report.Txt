@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[ALI PCB.GTL]
+   Generated File[ALI PCB.GTO]
+   Generated File[ALI PCB.GTP]
+   Generated File[ALI PCB.GTS]
+   Generated File[ALI PCB.RUL]
+   Generated File[ALI PCB.EXTREP]
+   Generated File[ALI PCB.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 12:28:57 On 13/11/2016
